@@ -1,5 +1,3 @@
-# Yandex handbook "Python Basics" answers
-
 2.2. Условный оператор
 
 A. Просто здравствуй, просто как дела
