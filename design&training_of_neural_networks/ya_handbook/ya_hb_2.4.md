@@ -1,5 +1,3 @@
-# Yandex handbook "Python Basics" answers
-
 2.4. Вложенные циклы
 
 A. Таблица умножения
