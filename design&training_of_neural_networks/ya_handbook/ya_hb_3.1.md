@@ -1,5 +1,3 @@
-# Yandex handbook "Python Basics" answers
-
 3.1. Строки, кортежи, списки
 
 A. Азбука
