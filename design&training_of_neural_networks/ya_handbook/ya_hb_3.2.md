@@ -1,5 +1,3 @@
-# Yandex handbook "Python Basics" answers
-
 3.2. Множества, словари
 
 A. Символическая выжимка
