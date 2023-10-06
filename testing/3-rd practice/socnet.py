@@ -151,7 +151,7 @@ def view_friends(selected_user_index, user_data_list):
     print("\n")
 
 
-if __name__ == "__main__":
+if __name__ == "__socnet__":
     while True:
         q = choice()
         selection(q)
