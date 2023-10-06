@@ -1,5 +1,3 @@
-# Yandex handbook "Python Basics" answers
-
 2.3. Циклы
 
 A. Раз, два, три! Ёлочка, гори!
